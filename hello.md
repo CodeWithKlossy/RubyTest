@@ -1,1 +1,1 @@
-这是一次测试RubyTestt
+这是一次测试RubyTest
